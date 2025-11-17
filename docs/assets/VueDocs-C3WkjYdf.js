@@ -1,4 +1,4 @@
-import{E as r,I as x,O as d,R as g,_ as O,c as h,d as b,f as i,l as e,lt as n,o as m,st as c}from"./codemirror-B25QCqWr.js";import{d as M,f as H}from"./vendor-vue-C93_ecI2.js";import{t as L}from"./index-BsUJhUQS.js";const P=[{id:"vue2-beforeCreate",name:"beforeCreate",category:"lifecycle",version:"vue2",description:"实例初始化之后，数据观测和事件配置之前被调用",syntax:"beforeCreate() { }",example:`export default {
+import{E as r,I as x,O as d,R as g,_ as O,c as h,d as b,f as i,l as e,lt as n,o as m,st as c}from"./codemirror-B25QCqWr.js";import{d as M,f as H}from"./vendor-vue-C93_ecI2.js";import{t as L}from"./index-Bx3gbFIn.js";const P=[{id:"vue2-beforeCreate",name:"beforeCreate",category:"lifecycle",version:"vue2",description:"实例初始化之后，数据观测和事件配置之前被调用",syntax:"beforeCreate() { }",example:`export default {
   beforeCreate() {
     console.log('beforeCreate: 实例刚创建');
     // 此时data、methods等都不可用
